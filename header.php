@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Emma</title>
+    <title>Ticket</title>
     <!-- jQuery (Required for DataTables) -->
 <script src="includes/jquery.js"></script>
 <link rel="stylesheet" href="includes/all.min.css">
@@ -18,7 +18,7 @@
 <body>
 
 <nav class="navbar navbar-expand-lg navbar-light bg-primary px-3 shadow-sm">
-    <a class="navbar-brand fw-bold text-white" href="#">MyApp</a>
+    <a class="navbar-brand fw-bold text-white" href="#">Ticket System</a>
 
     <div class="ms-auto d-flex align-items-center">
         <div class="dropdown">

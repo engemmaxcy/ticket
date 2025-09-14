@@ -1,3 +1,9 @@
+
+
+
+
+
+
 <script src="includes/bootstrap.bundle.min.js"></script>
 <script>
                 $("#check").submit(function(event){

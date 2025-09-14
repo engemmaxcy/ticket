@@ -1,6 +1,6 @@
 <?php
 include 'connect.php';
-$send = $conn->query("TRUNCATE table tickets");
-header("Location: index.php");
-
+$conn->query("TRUNCATE TABLE tickets");
+header("Location: index.php?msg=deleted");
+header("Location: landing.php");
 ?>
